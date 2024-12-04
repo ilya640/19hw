@@ -12,7 +12,7 @@ html {
     width: 100%;
     grid-template-areas:
         "  img     img     img     img     "
-        "   header  header  header  header header"
+        "   header  header  header  header "
         " all-news    all-news    all-news    all-news    "
         " text    text    text    text    "
         "  footer  footer  footer  footer ";
